@@ -1,3 +1,3 @@
 # KoKoa Clone
 
-Practicing my HTML and CSS!
+HTML and CSS will get better!
